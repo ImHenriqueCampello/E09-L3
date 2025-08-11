@@ -12,7 +12,7 @@ int main()
 {
 	do
 	{
-		cout << "Qual valor você deseja calcular o resto? [Valor entre 0 a 50]" << endl;
+		cout << "Qual valor vocÃª deseja calcular o resto? [Valor entre 0 a 50]" << endl;
 		cin >> entrada;
 	}
 	while(entrada >= 50 || entrada <= 0);
