@@ -7,7 +7,7 @@ int entrada;
 
 int main()
 {
-	cout << "Quantas laranjas você comprou?" << endl;
+	cout << "Quantas laranjas vocÃª comprou?" << endl;
 	cin >> entrada;
 
 
